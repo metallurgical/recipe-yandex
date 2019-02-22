@@ -1,0 +1,14 @@
+{
+  "id": "yandexmail",
+  "name": "Yandex Mail",
+  "version": "1.0.0",
+  "description": "Yandex Mail",
+  "main": "index.js",
+  "author": "Norlihazmey Ghazali <norlihazmey.ghazali@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/metallurgical/recipe-yandex",
+  "config": {
+    "serviceURL": "https://mail.yandex.com",
+    "hasNotificationSound": true
+  }
+}
